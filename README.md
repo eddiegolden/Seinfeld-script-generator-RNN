@@ -40,3 +40,5 @@ george: i know i was just a very serious guy, and i can't get a little more.(to 
 george: well, i don't have to see it anymore.
 
 elaine: oh,
+
+![Seinfeld](seinfeld.jpg)
